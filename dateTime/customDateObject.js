@@ -9,3 +9,4 @@ const dateObj=myDate.toLocaleString('en-us',{
     hour12:true
 });
 console.log(dateObj);
+// 08/11/2024, 1:08:59 PM
